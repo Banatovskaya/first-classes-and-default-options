@@ -1,0 +1,33 @@
+button {
+	
+	width: 60px;
+	height: 30px;
+	margin-top: 14px;
+	border: none;
+	border-radius: 8px;
+	background-color: rgb(51, 59, 134);
+	color: #fff;
+	cursor: pointer;
+	outline: none;
+	left:650px;
+}
+#canvas{
+	position: absolute;
+	top: 50px;	
+	width: 1200px;
+	height: 400px;
+}
+
+img{
+	position: absolute;
+	top: 50px;	
+	
+	opacity: 0.5;
+}
+form{
+	position: fixed;
+	left: 6px;
+	top: 03px;	
+	
+}
+ 
